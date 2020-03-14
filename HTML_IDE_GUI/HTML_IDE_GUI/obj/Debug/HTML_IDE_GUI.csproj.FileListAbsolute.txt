@@ -1,0 +1,10 @@
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\bin\Debug\HTML_IDE_GUI.exe.config
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\bin\Debug\HTML_IDE_GUI.exe
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\bin\Debug\HTML_IDE_GUI.pdb
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.csprojResolveAssemblyReference.cache
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.Form1.resources
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.Form2.resources
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.Properties.Resources.resources
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.csproj.GenerateResource.Cache
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.exe
+c:\users\staef\documents\visual studio 2015\Projects\HTML_IDE_GUI\HTML_IDE_GUI\obj\Debug\HTML_IDE_GUI.pdb
